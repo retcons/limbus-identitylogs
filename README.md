@@ -6,7 +6,7 @@ A collection for easy access to identity uptie stories in Limbus.
 ## Changelog
 
 Latest Version: v1.0<br>
-Last Updated: October 25, 2023
+Last Updated: November 8, 2023
 
 <details>
 <summary>Update History</summary>
